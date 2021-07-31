@@ -1,0 +1,11 @@
+127.0.0.1/crowd farm/farms/		http://localhost/phpmyadmin/sql.php?db=crowd+farm&table=farms
+ Showing rows 0 -  3 (4 total, Query took 0.0019 seconds.)
+
+SELECT * FROM `farms`
+
+
+ID      Fname	Lname	      District	
+1	mercy	Alimun	      Koboko	
+2	mary	kuku	      Tororo	
+3	henry	alinaitwe     Mbarara	
+4	nary	krubu	      hoima	
