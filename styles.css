@@ -1,0 +1,60 @@
+h1{/* OFF DUTY FARM */
+
+position: absolute;
+width: 543px;
+height: 152px;
+left: 69px;
+top: 57px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: bold;
+font-size: 36px;
+line-height: 42px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;}
+
+body{
+position: relative;
+width: 1440px;
+height: 1024px;
+
+background: #EAEC96;
+
+}
+
+h2{
+	position: absolute;
+width: 166px;
+height: 68px;
+left: 1013px;
+top: 99px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: 300;
+font-size: 24px;
+line-height: 28px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+}
+
+
+.box{
+	
+position: absolute;
+width: 258px;
+height: 80px;
+left: 570px;
+top: 536px;
+
+background: #CED059;
+}
